@@ -1,6 +1,6 @@
 # Build-Portfolio
 ```
-Sample Portfolio to show your skills and projects
+Sample Portfolio to present your skills and projects
 ```
 ### Technologies 
 >* HTML
